@@ -1,4 +1,4 @@
-# 🎓 Student Management System – Java (Task 34.1)
+# 🎓 Student Management System – Java
 
 A simple Java application that manages student information using **Static Concepts** and **Object-Oriented Programming (OOP)**. This project demonstrates how static variables, static methods, static blocks, constructors, and anonymous objects work in Java.
 
