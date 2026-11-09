@@ -37,3 +37,8 @@ A simple Java application that manages student information using **Static Concep
 - **Anonymous Object** – Create and use an object without storing it in a reference variable.
 - **Class and Objects** – Create and manage multiple student records.
 
+---
+🔗 Connect With Me
+
+💼 LinkedIn:
+[Kathirvel G](https://www.linkedin.com/in/kathirvel-gk/)
